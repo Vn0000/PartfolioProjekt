@@ -1,4 +1,4 @@
-package com.example.partfolioprojekt
+package com.example.partfolioprojekt.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
