@@ -1,6 +1,6 @@
-package com.example.partfolioprojekt.data
+package com.example.partfolioprojekt.data.repository
 
-import com.example.partfolioprojekt.domain.PreparatItem
+import com.example.partfolioprojekt.domain.model.PreparatItem
 import com.example.partfolioprojekt.domain.PreparatListRepository
 
 object PreparatListRepositoryImpl : PreparatListRepository {

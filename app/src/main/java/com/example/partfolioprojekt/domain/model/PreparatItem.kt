@@ -1,11 +1,10 @@
-package com.example.partfolioprojekt.domain
+package com.example.partfolioprojekt.domain.model
 
 import android.net.Uri
-import java.io.FileDescriptor
 
 data class PreparatItem(
     val title: String,
-    val descriptor: String,
+    val description: String,
     val imageID: Uri? = null,
     var id: Int = UNDEFINED_ID
 ) {

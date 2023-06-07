@@ -1,5 +1,7 @@
 package com.example.partfolioprojekt.domain
 
+import com.example.partfolioprojekt.domain.model.PreparatItem
+
 interface PreparatListRepository {
     fun addPreparatItem(preparatItem: PreparatItem)
 
