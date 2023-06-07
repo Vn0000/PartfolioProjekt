@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PartfolioProjekt</string>
+    <string name="main_title">Статистика по препаратам</string>
+    <string name="title_hint">Введите наименование препарата</string>
+    <string name="content_save">сохранить</string>
+    <string name="coments_text">Введите коментарии</string>
 </resources>
